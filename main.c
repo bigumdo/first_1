@@ -3,5 +3,5 @@
 int main()
 
 {
-    
+    pridnt ("돼지")
 }
